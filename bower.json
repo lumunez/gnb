@@ -1,0 +1,14 @@
+{
+  "name": "GNB",
+  "version": "1.0.0",
+  "dependencies": {
+    "sass-bootstrap": "~3.0",
+    "requirejs": "~2.1.4",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.9.1",
+    "angular": "1.0.7",
+    "jquery-mobile-bower": "1.4.5",
+    "webcomponentsjs": "^0.7.21"
+  },
+  "devDependencies": {}
+}
